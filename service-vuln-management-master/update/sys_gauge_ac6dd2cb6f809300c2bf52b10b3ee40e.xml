@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_gauge">
+    <sys_gauge action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate>SUM</aggregate>
+        <attributes/>
+        <fieldname>riskscore</fieldname>
+        <group_field>vulnerability_title</group_field>
+        <lower_limit/>
+        <name>last 30 days</name>
+        <order/>
+        <other_threshold>-2</other_threshold>
+        <parent/>
+        <query/>
+        <report/>
+        <roles/>
+        <stack_field/>
+        <sys_class_name>sys_gauge</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-07 17:35:00</sys_created_on>
+        <sys_id>ac6dd2cb6f809300c2bf52b10b3ee40e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>last 30 days</sys_name>
+        <sys_package display_value="Vulnerbility Management" source="x_169387_vulnerbil">ca6f81606f001300c2bf52b10b3ee4b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+        <sys_update_name>sys_gauge_ac6dd2cb6f809300c2bf52b10b3ee40e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-07 17:41:39</sys_updated_on>
+        <tablename>x_169387_vulnerbil_last_30_days</tablename>
+        <title>test</title>
+        <type>counts</type>
+        <upper_limit/>
+        <url/>
+        <view/>
+    </sys_gauge>
+</record_update>

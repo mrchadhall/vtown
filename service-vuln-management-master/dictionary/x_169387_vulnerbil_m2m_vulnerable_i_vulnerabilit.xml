@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Vulnerbil M2m Vulnerable I Vulnerabilit" max_length="40" name="x_169387_vulnerbil_m2m_vulnerable_i_vulnerabilit" type="collection">
+        <element label="Vulnerability Groups" max_length="32" name="associated_vulnerability_groups" reference="x_169387_vulnerbil_vulnerability_groups" type="reference"/>
+        <element label="Vulnerable Items" max_length="32" name="associated_vulnerable_items" reference="x_169387_vulnerbil_vulnerable_items" type="reference"/>
+        <index name="index">
+            <element name="associated_vulnerable_items"/>
+        </index>
+    </element>
+</database>

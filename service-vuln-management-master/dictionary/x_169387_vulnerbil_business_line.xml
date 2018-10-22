@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Business Line" max_length="40" name="x_169387_vulnerbil_business_line" type="collection">
+        <element label="Name" max_length="40" name="name" type="string" unique="true"/>
+        <element label="Support Team" max_length="32" name="support_team" reference="x_169387_vulnerbil_support_team" type="reference"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+        <index name="index2">
+            <element name="support_team"/>
+        </index>
+    </element>
+</database>

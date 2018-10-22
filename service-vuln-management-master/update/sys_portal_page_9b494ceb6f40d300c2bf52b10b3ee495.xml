@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-02-27 23:39:27">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9b494ceb6f40d300c2bf52b10b3ee495</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My  Vulnerability Management - Associate Systems</sys_name>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-08 20:04:24</sys_updated_on>
+        <title>My  Vulnerability Management - Associate Systems</title>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="My  Vulnerability Management - Associate Systems">9b494ceb6f40d300c2bf52b10b3ee495</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                <sys_id>13490c2f6f40d300c2bf52b10b3ee4da</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">13490c2f6f40d300c2bf52b10b3ee4da</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>17490c2f6f40d300c2bf52b10b3ee4db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">13490c2f6f40d300c2bf52b10b3ee4da</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>1b490c2f6f40d300c2bf52b10b3ee4da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>fa29d3286f441300c2bf52b10b3ee449</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">13490c2f6f40d300c2bf52b10b3ee4da</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>53490c2f6f40d300c2bf52b10b3ee4db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>System Coverage with Vulnerability Trends - Associate</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">13490c2f6f40d300c2bf52b10b3ee4da</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9f490c2f6f40d300c2bf52b10b3ee4da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">13490c2f6f40d300c2bf52b10b3ee4da</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>d3490c2f6f40d300c2bf52b10b3ee4da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>3f7e40386f081300c2bf52b10b3ee478</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">13490c2f6f40d300c2bf52b10b3ee4da</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>d7490c2f6f40d300c2bf52b10b3ee4db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">13490c2f6f40d300c2bf52b10b3ee4da</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>db490c2f6f40d300c2bf52b10b3ee4da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>line</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="My  Vulnerability Management - Associate Systems">9b494ceb6f40d300c2bf52b10b3ee495</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                <sys_id>1b494ceb6f40d300c2bf52b10b3ee496</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee496</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>17494ceb6f40d300c2bf52b10b3ee497</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee496</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>53494ceb6f40d300c2bf52b10b3ee497</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee496</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>5f494ceb6f40d300c2bf52b10b3ee497</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>157356b66f045300c2bf52b10b3ee4d5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee496</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>93494ceb6f40d300c2bf52b10b3ee498</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>fa29d3286f441300c2bf52b10b3ee449</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee496</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9b494ceb6f40d300c2bf52b10b3ee497</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>Top Remediations - Windows (Last Month)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee496</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9f494ceb6f40d300c2bf52b10b3ee496</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee496</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>d7494ceb6f40d300c2bf52b10b3ee497</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee496</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>db494ceb6f40d300c2bf52b10b3ee496</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="My  Vulnerability Management - Associate Systems">9b494ceb6f40d300c2bf52b10b3ee495</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                <sys_id>1b494ceb6f40d300c2bf52b10b3ee498</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>13494ceb6f40d300c2bf52b10b3ee499</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>17494ceb6f40d300c2bf52b10b3ee49b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>1b494ceb6f40d300c2bf52b10b3ee49a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>widget_height</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>1f494ceb6f40d300c2bf52b10b3ee499</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>53494ceb6f40d300c2bf52b10b3ee49b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>Top Remediations - Windows (Current Month)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_size</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>57494ceb6f40d300c2bf52b10b3ee49a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>10pt</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>5b494ceb6f40d300c2bf52b10b3ee499</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>5f494ceb6f40d300c2bf52b10b3ee49b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>93494ceb6f40d300c2bf52b10b3ee49a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>97494ceb6f40d300c2bf52b10b3ee499</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9b494ceb6f40d300c2bf52b10b3ee49b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9f494ceb6f40d300c2bf52b10b3ee49a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>d3494ceb6f40d300c2bf52b10b3ee499</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>fa29d3286f441300c2bf52b10b3ee449</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>d7494ceb6f40d300c2bf52b10b3ee49b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>db494ceb6f40d300c2bf52b10b3ee498</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>06cf4a366f045300c2bf52b10b3ee40f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>db494ceb6f40d300c2bf52b10b3ee49a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">1b494ceb6f40d300c2bf52b10b3ee498</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>df494ceb6f40d300c2bf52b10b3ee499</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>2</offset>
+                <page display_value="My  Vulnerability Management - Associate Systems">9b494ceb6f40d300c2bf52b10b3ee495</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                <sys_id>53490c2f6f40d300c2bf52b10b3ee4d8</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53490c2f6f40d300c2bf52b10b3ee4d8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>17490c2f6f40d300c2bf52b10b3ee4d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>7fe2de766f045300c2bf52b10b3ee49c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53490c2f6f40d300c2bf52b10b3ee4d8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>1b490c2f6f40d300c2bf52b10b3ee4d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53490c2f6f40d300c2bf52b10b3ee4d8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>1f490c2f6f40d300c2bf52b10b3ee4d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53490c2f6f40d300c2bf52b10b3ee4d8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>57490c2f6f40d300c2bf52b10b3ee4d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53490c2f6f40d300c2bf52b10b3ee4d8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>5b490c2f6f40d300c2bf52b10b3ee4d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>fa29d3286f441300c2bf52b10b3ee449</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53490c2f6f40d300c2bf52b10b3ee4d8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>93490c2f6f40d300c2bf52b10b3ee4d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53490c2f6f40d300c2bf52b10b3ee4d8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>db490c2f6f40d300c2bf52b10b3ee4d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53490c2f6f40d300c2bf52b10b3ee4d8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>df490c2f6f40d300c2bf52b10b3ee4d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>Top Remediations - Mac (Current Month)</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>1</offset>
+                <page display_value="My  Vulnerability Management - Associate Systems">9b494ceb6f40d300c2bf52b10b3ee495</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                <sys_id>53494ceb6f40d300c2bf52b10b3ee49e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>17494ceb6f40d300c2bf52b10b3ee49e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>2fc6c4076f085300c2bf52b10b3ee45b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>1b490c2f6f40d300c2bf52b10b3ee4d3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>fa29d3286f441300c2bf52b10b3ee449</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>93490c2f6f40d300c2bf52b10b3ee4dc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>93490c2f6f40d300c2bf52b10b3ee4dd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_size</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>97490c2f6f40d300c2bf52b10b3ee4dc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>10pt</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>widget_height</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>97490c2f6f40d300c2bf52b10b3ee4dd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9b490c2f6f40d300c2bf52b10b3ee4dc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9b490c2f6f40d300c2bf52b10b3ee4dd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9f490c2f6f40d300c2bf52b10b3ee4d3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>Vulnerable Item Count</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9f490c2f6f40d300c2bf52b10b3ee4db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9f490c2f6f40d300c2bf52b10b3ee4dc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9f490c2f6f40d300c2bf52b10b3ee4dd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">53494ceb6f40d300c2bf52b10b3ee49e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>db490c2f6f40d300c2bf52b10b3ee4d3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>2</offset>
+                <page display_value="My  Vulnerability Management - Associate Systems">9b494ceb6f40d300c2bf52b10b3ee495</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                <sys_id>93490c2f6f40d300c2bf52b10b3ee4d6</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93490c2f6f40d300c2bf52b10b3ee4d6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>13490c2f6f40d300c2bf52b10b3ee4d7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>Top Remediations - Mac (Last Month)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93490c2f6f40d300c2bf52b10b3ee4d6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>1f490c2f6f40d300c2bf52b10b3ee4d7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93490c2f6f40d300c2bf52b10b3ee4d6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>57490c2f6f40d300c2bf52b10b3ee4d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>4754aba06fc41300c2bf52b10b3ee425</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93490c2f6f40d300c2bf52b10b3ee4d6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>5b490c2f6f40d300c2bf52b10b3ee4d7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93490c2f6f40d300c2bf52b10b3ee4d6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>5f490c2f6f40d300c2bf52b10b3ee4d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93490c2f6f40d300c2bf52b10b3ee4d6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>97490c2f6f40d300c2bf52b10b3ee4d7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93490c2f6f40d300c2bf52b10b3ee4d6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9b490c2f6f40d300c2bf52b10b3ee4d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>fa29d3286f441300c2bf52b10b3ee449</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93490c2f6f40d300c2bf52b10b3ee4d6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>d3490c2f6f40d300c2bf52b10b3ee4d7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="My  Vulnerability Management - Associate Systems">9b494ceb6f40d300c2bf52b10b3ee495</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                <sys_id>93494ceb6f40d300c2bf52b10b3ee49c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93494ceb6f40d300c2bf52b10b3ee49c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>17494ceb6f40d300c2bf52b10b3ee49d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93494ceb6f40d300c2bf52b10b3ee49c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>1b494ceb6f40d300c2bf52b10b3ee49c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93494ceb6f40d300c2bf52b10b3ee49c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>1f494ceb6f40d300c2bf52b10b3ee49d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>fa29d3286f441300c2bf52b10b3ee449</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93494ceb6f40d300c2bf52b10b3ee49c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>53494ceb6f40d300c2bf52b10b3ee49d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93494ceb6f40d300c2bf52b10b3ee49c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>57494ceb6f40d300c2bf52b10b3ee49c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93494ceb6f40d300c2bf52b10b3ee49c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9f494ceb6f40d300c2bf52b10b3ee49c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>Total Risk Score - Associate</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93494ceb6f40d300c2bf52b10b3ee49c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>d7494ceb6f40d300c2bf52b10b3ee49d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>90b104706f081300c2bf52b10b3ee43a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">93494ceb6f40d300c2bf52b10b3ee49c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>db494ceb6f40d300c2bf52b10b3ee49c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="My  Vulnerability Management - Associate Systems">9b494ceb6f40d300c2bf52b10b3ee495</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                <sys_id>d3490c2f6f40d300c2bf52b10b3ee4d4</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">d3490c2f6f40d300c2bf52b10b3ee4d4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>17490c2f6f40d300c2bf52b10b3ee4d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>funnel</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">d3490c2f6f40d300c2bf52b10b3ee4d4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>53490c2f6f40d300c2bf52b10b3ee4d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">d3490c2f6f40d300c2bf52b10b3ee4d4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>5f490c2f6f40d300c2bf52b10b3ee4d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">d3490c2f6f40d300c2bf52b10b3ee4d4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>97490c2f6f40d300c2bf52b10b3ee4d4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>58c82b726fc45300c2bf52b10b3ee4ef</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">d3490c2f6f40d300c2bf52b10b3ee4d4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9b490c2f6f40d300c2bf52b10b3ee4d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>Critical Vulnerability Aging</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">d3490c2f6f40d300c2bf52b10b3ee4d4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>9f490c2f6f40d300c2bf52b10b3ee4d4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">d3490c2f6f40d300c2bf52b10b3ee4d4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>d7490c2f6f40d300c2bf52b10b3ee4d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-08 12:04:23">d3490c2f6f40d300c2bf52b10b3ee4d4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-02-08 20:04:23</sys_created_on>
+                        <sys_id>db490c2f6f40d300c2bf52b10b3ee4d4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-02-08 20:04:23</sys_updated_on>
+                        <value>fa29d3286f441300c2bf52b10b3ee449</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

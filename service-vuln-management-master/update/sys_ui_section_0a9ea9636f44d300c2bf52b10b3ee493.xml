@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="0a9ea9636f44d300c2bf52b10b3ee493" sys_domain="global" table="x_169387_vulnerbil_top_remediations_source" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_id>8e9ea9636f44d300c2bf52b10b3ee497</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_169387_vulnerbil_top_remediations_source" sys_domain="global" view="Default view">0a9ea9636f44d300c2bf52b10b3ee493</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_asset_hostname</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_id>029ea9636f44d300c2bf52b10b3ee498</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_169387_vulnerbil_top_remediations_source" sys_domain="global" view="Default view">0a9ea9636f44d300c2bf52b10b3ee493</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_asset_ip</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_id>829ea9636f44d300c2bf52b10b3ee498</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_169387_vulnerbil_top_remediations_source" sys_domain="global" view="Default view">0a9ea9636f44d300c2bf52b10b3ee493</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_asset_url</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_id>069ea9636f44d300c2bf52b10b3ee498</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_169387_vulnerbil_top_remediations_source" sys_domain="global" view="Default view">0a9ea9636f44d300c2bf52b10b3ee493</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_id>869ea9636f44d300c2bf52b10b3ee498</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_169387_vulnerbil_top_remediations_source" sys_domain="global" view="Default view">0a9ea9636f44d300c2bf52b10b3ee493</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_asset_work_estimate</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_id>0a9ea9636f44d300c2bf52b10b3ee498</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_169387_vulnerbil_top_remediations_source" sys_domain="global" view="Default view">0a9ea9636f44d300c2bf52b10b3ee493</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_owners</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_id>8a9ea9636f44d300c2bf52b10b3ee498</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_169387_vulnerbil_top_remediations_source" sys_domain="global" view="Default view">0a9ea9636f44d300c2bf52b10b3ee493</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_riskscore</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_id>0e9ea9636f44d300c2bf52b10b3ee498</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_169387_vulnerbil_top_remediations_source" sys_domain="global" view="Default view">0a9ea9636f44d300c2bf52b10b3ee493</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_id>8e9ea9636f44d300c2bf52b10b3ee498</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_169387_vulnerbil_top_remediations_source" sys_domain="global" view="Default view">0a9ea9636f44d300c2bf52b10b3ee493</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_solution</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_id>029ea9636f44d300c2bf52b10b3ee499</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_169387_vulnerbil_top_remediations_source" sys_domain="global" view="Default view">0a9ea9636f44d300c2bf52b10b3ee493</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_title</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_id>829ea9636f44d300c2bf52b10b3ee499</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_169387_vulnerbil_top_remediations_source" sys_domain="global" view="Default view">0a9ea9636f44d300c2bf52b10b3ee493</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_169387_vulnerbil_top_remediations_source</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 03:26:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a9ea9636f44d300c2bf52b10b3ee493</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_169387_vulnerbil_top_remediations_source</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Vulnerbility Management" source="x_169387_vulnerbil">ca6f81606f001300c2bf52b10b3ee4b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+            <sys_update_name>sys_ui_section_0a9ea9636f44d300c2bf52b10b3ee493</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 03:26:56</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

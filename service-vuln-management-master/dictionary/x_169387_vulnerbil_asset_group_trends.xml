@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Asset Group Trends" max_length="40" name="x_169387_vulnerbil_asset_group_trends" type="collection">
+        <element label="Assets" max_length="40" name="assets" type="integer"/>
+        <element label="Asset Group" max_length="40" name="asset_group" type="string"/>
+        <element label="Critical" max_length="40" name="critical" type="integer"/>
+        <element label="Day" max_length="40" name="day" type="glide_date"/>
+        <element label="Last Scanned" max_length="40" name="last_scanned" type="glide_date_time"/>
+        <element label="Moderate" max_length="40" name="moderate" type="integer"/>
+        <element label="Riskscore" max_length="40" name="riskscore" type="integer"/>
+        <element label="Severe" max_length="40" name="severe" type="integer"/>
+        <element label="Vulnerabilities" max_length="40" name="vulnerabilities" type="integer"/>
+        <element label="Vulns with exploits" max_length="40" name="vulns_with_exploits" type="integer"/>
+    </element>
+</database>

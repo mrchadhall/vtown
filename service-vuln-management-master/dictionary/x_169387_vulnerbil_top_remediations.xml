@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Top Remediations" max_length="40" name="x_169387_vulnerbil_top_remediations" sizeclass="243177" type="collection">
+        <element label="Asset Hostname" max_length="40" name="asset_hostname" type="string"/>
+        <element label="Asset IP" max_length="40" name="asset_ip" type="string"/>
+        <element label="Asset URL" max_length="1024" name="asset_url" type="url"/>
+        <element label="Asset Work Estimate" max_length="40" name="asset_work_estimate" type="string"/>
+        <element default="40" label="Last Scanned" max_length="40" name="last_scanned" type="glide_date_time"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Owners" max_length="40" name="owners" type="string"/>
+        <element label="Riskscore" max_length="40" name="riskscore" type="integer"/>
+        <element label="Solution" max_length="40" name="solution" type="string"/>
+        <element label="Title" max_length="40" name="title" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>rpt-tempe55e3d75c332120031fbdccdf3d3aeeeadmin</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-07 05:53:19</sys_created_on>
+        <sys_id>4becbbbe6fc45300c2bf52b10b3ee451</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-07 05:53:19</sys_updated_on>
+        <title>Rpt-tempe55e3d75c332120031fbdccdf3d3aeeeadmin</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

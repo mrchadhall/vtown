@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Age of Critical Vulnerabilities" max_length="40" name="x_169387_vulnerbil_age_of_critical_vulnerabilities" type="collection">
+        <element label="Asset Group" max_length="40" name="asset_group" type="string"/>
+        <element label="Critical &gt;180 Days" max_length="40" name="critical_180_days" type="integer"/>
+        <element label="Critical &gt;30 Days" max_length="40" name="critical_30_days" type="integer"/>
+        <element label="Critical &gt;60 Days" max_length="40" name="critical_60_days" type="integer"/>
+        <element label="Critical &gt;90 Days" max_length="40" name="critical_90_days" type="integer"/>
+        <element label="Critical Vulns" max_length="40" name="critical_vulns" type="integer"/>
+        <element label="Last Scanned" max_length="40" name="last_scanned" type="glide_date_time"/>
+        <element label="Riskscore" max_length="40" name="riskscore" type="integer"/>
+    </element>
+</database>

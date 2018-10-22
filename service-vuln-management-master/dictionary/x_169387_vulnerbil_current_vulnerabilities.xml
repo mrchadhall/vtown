@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Current vulnerabilites" max_length="40" name="x_169387_vulnerbil_current_vulnerabilities" type="collection">
+        <element attributes="import_attribute_name=Asset Count,edge_encryption_enabled=true" label="Asset Count" max_length="40" name="u_asset_count" type="string"/>
+        <element attributes="import_attribute_name=asset group,edge_encryption_enabled=true" label="asset group" max_length="40" name="u_asset_group" type="string"/>
+        <element attributes="import_attribute_name=Average Riskscore,edge_encryption_enabled=true" label="Average Riskscore" max_length="40" name="u_average_riskscore" type="string"/>
+        <element attributes="import_attribute_name=Critical Vulnerabilities,edge_encryption_enabled=true" label="Critical Vulnerabilities" max_length="40" name="u_critical_vulnerabilities" type="string"/>
+        <element attributes="import_attribute_name=Exploits,edge_encryption_enabled=true" label="Exploits" max_length="40" name="u_exploits" type="string"/>
+        <element attributes="import_attribute_name=Malware Kits,edge_encryption_enabled=true" label="Malware Kits" max_length="40" name="u_malware_kits" type="string"/>
+        <element attributes="import_attribute_name=Moderate Vulnerabilities,edge_encryption_enabled=true" label="Moderate Vulnerabilities" max_length="40" name="u_moderate_vulnerabilities" type="string"/>
+        <element attributes="import_attribute_name=Severe Vulnerabilities,edge_encryption_enabled=true" label="Severe Vulnerabilities" max_length="40" name="u_severe_vulnerabilities" type="string"/>
+        <element attributes="import_attribute_name=Total Riskscore,edge_encryption_enabled=true" label="Total Riskscore" max_length="40" name="u_total_riskscore" type="string"/>
+    </element>
+</database>

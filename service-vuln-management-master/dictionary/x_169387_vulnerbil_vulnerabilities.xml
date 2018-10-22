@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Vulnerabilities" max_length="40" name="x_169387_vulnerbil_vulnerabilities" sizeclass="14876" type="collection">
+        <element label="CVSS" max_length="40" name="cvss" type="integer"/>
+        <element label="Name" max_length="256" name="name" type="string" unique="true"/>
+        <element label="Nexpose ID" max_length="256" name="nexpose_id" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Riskscore" max_length="40" name="score" type="integer"/>
+        <element label="Severity" max_length="40" name="severity" type="string"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

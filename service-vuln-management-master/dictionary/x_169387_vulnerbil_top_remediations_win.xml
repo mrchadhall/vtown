@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="top remediations-win" max_length="40" name="x_169387_vulnerbil_top_remediations_win" sizeclass="122977" type="collection">
+        <element attributes="import_attribute_name=Asset Hostname,edge_encryption_enabled=true" label="Asset Hostname" max_length="40" name="u_asset_hostname" type="string"/>
+        <element attributes="import_attribute_name=Asset IP,edge_encryption_enabled=true" label="Asset IP" max_length="40" name="u_asset_ip" type="string"/>
+        <element attributes="import_attribute_name=Asset URL,edge_encryption_enabled=true" label="Asset URL" max_length="46" name="u_asset_url" type="string"/>
+        <element attributes="import_attribute_name=Asset Work Estimate" label="Asset Work Estimate" max_length="40" name="u_asset_work_estimate" type="glide_date_time"/>
+        <element attributes="import_attribute_name=Owners,edge_encryption_enabled=true" label="Owners" max_length="40" name="u_owners" type="string"/>
+        <element attributes="import_attribute_name=riskscore" label="riskscore" max_length="40" name="u_riskscore" type="integer"/>
+        <element attributes="import_attribute_name=Solution,edge_encryption_enabled=true" label="Solution" max_length="108" name="u_solution" type="string"/>
+        <element attributes="import_attribute_name=title,edge_encryption_enabled=true" label="title" max_length="120" name="u_title" type="string"/>
+    </element>
+</database>

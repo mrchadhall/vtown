@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="last 30 " max_length="40" name="x_169387_vulnerbil_last_30" sizeclass="797830" type="collection">
+        <element attributes="import_attribute_name=asset_group,edge_encryption_enabled=true" label="asset_group" max_length="40" name="u_asset_group" type="string"/>
+        <element attributes="import_attribute_name=CVSS,edge_encryption_enabled=true" label="CVSS" max_length="40" name="u_cvss" type="string"/>
+        <element attributes="import_attribute_name=host_name,edge_encryption_enabled=true" label="host_name" max_length="40" name="u_host_name" type="string"/>
+        <element attributes="import_attribute_name=ip_address,edge_encryption_enabled=true" label="ip_address" max_length="40" name="u_ip_address" type="string"/>
+        <element attributes="import_attribute_name=mac_address,edge_encryption_enabled=true" label="mac_address" max_length="40" name="u_mac_address" type="string"/>
+        <element attributes="import_attribute_name=nexpose_id,edge_encryption_enabled=true" label="nexpose_id" max_length="77" name="u_nexpose_id" type="string"/>
+        <element attributes="import_attribute_name=Riskscore,edge_encryption_enabled=true" label="Riskscore" max_length="40" name="u_riskscore" type="string"/>
+        <element attributes="import_attribute_name=severity,edge_encryption_enabled=true" label="severity" max_length="40" name="u_severity" type="string"/>
+        <element attributes="import_attribute_name=vulnerability_title,edge_encryption_enabled=true" label="vulnerability_title" max_length="219" name="u_vulnerability_title" type="string"/>
+        <element attributes="import_attribute_name=vuln_change,edge_encryption_enabled=true" label="vuln_change" max_length="40" name="u_vuln_change" type="string"/>
+    </element>
+</database>

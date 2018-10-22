@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_gauge">
+    <sys_gauge action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate>COUNT</aggregate>
+        <attributes/>
+        <fieldname>asset_ip</fieldname>
+        <group_field>asset_hostname</group_field>
+        <lower_limit/>
+        <name>New Assets</name>
+        <order/>
+        <other_threshold>-2</other_threshold>
+        <parent/>
+        <query/>
+        <report/>
+        <roles/>
+        <stack_field/>
+        <sys_class_name>sys_gauge</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-07 06:36:23</sys_created_on>
+        <sys_id>486684076f085300c2bf52b10b3ee4ae</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New Assets</sys_name>
+        <sys_package display_value="Vulnerbility Management" source="x_169387_vulnerbil">ca6f81606f001300c2bf52b10b3ee4b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+        <sys_update_name>sys_gauge_486684076f085300c2bf52b10b3ee4ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-08 19:20:04</sys_updated_on>
+        <tablename>x_169387_vulnerbil_top_remediations</tablename>
+        <title/>
+        <type>url</type>
+        <upper_limit/>
+        <url>nav_to.do?uri=%2Fx_169387_vulnerbil_last_30_days_list.do%3Fsysparm_query%3Dasset_groupLIKEAssociate%255Eseverity%253Dcritical%26sysparm_first_row%3D1%26sysparm_view%3D</url>
+        <view/>
+    </sys_gauge>
+</record_update>

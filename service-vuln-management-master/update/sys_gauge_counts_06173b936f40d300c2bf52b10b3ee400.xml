@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_gauge_counts">
+    <sys_gauge_counts action="INSERT_OR_UPDATE">
+        <gauge_id display_value="Vulnerable Item Count">2fc6c4076f085300c2bf52b10b3ee45b</gauge_id>
+        <image/>
+        <name>Total Amount of Critical Vulnerabilities</name>
+        <omit_line>false</omit_line>
+        <order>200</order>
+        <override_style/>
+        <query table="x_169387_vulnerbil_last_30_days">asset_groupLIKEAssociate^severity=critical^vulnerability_changeNOT LIKERemediated^EQ<item endquery="false" field="asset_group" goto="false" newquery="false" operator="LIKE" or="false" value="Associate"/>
+            <item endquery="false" field="severity" goto="false" newquery="false" operator="=" or="false" value="critical"/>
+            <item endquery="false" field="vulnerability_change" goto="false" newquery="false" operator="NOT LIKE" or="false" value="Remediated"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query>
+        <script/>
+        <short_description>Total critical items found in last 30 days</short_description>
+        <sys_class_name>sys_gauge_counts</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-08 18:45:46</sys_created_on>
+        <sys_id>06173b936f40d300c2bf52b10b3ee400</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Total Amount of Critical Vulnerabilities</sys_name>
+        <sys_package display_value="Vulnerbility Management" source="x_169387_vulnerbil">ca6f81606f001300c2bf52b10b3ee4b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+        <sys_update_name>sys_gauge_counts_06173b936f40d300c2bf52b10b3ee400</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-08 19:51:08</sys_updated_on>
+        <tablename>x_169387_vulnerbil_last_30_days</tablename>
+        <use_script>false</use_script>
+    </sys_gauge_counts>
+</record_update>

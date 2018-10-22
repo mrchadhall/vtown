@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_169387_vulnerbil_top_remediations_win" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_169387_vulnerbil_top_remediations_win" element="NULL" name="x_169387_vulnerbil_top_remediations_win" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2013f2286fc01300c2bf52b10b3ee42f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 00:44:19</sys_created_on>
+            <sys_id>2413f2286fc01300c2bf52b10b3ee42f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 00:44:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_169387_vulnerbil_top_remediations_win" element="NULL" name="x_169387_vulnerbil_top_remediations_win" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2013f2286fc01300c2bf52b10b3ee42f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 00:44:19</sys_created_on>
+            <sys_id>a413f2286fc01300c2bf52b10b3ee42f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 00:44:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_169387_vulnerbil_top_remediations_win" element="NULL" name="x_169387_vulnerbil_top_remediations_win" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2013f2286fc01300c2bf52b10b3ee42f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 00:44:19</sys_created_on>
+            <sys_id>2813f2286fc01300c2bf52b10b3ee42f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 00:44:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_169387_vulnerbil_top_remediations_win" element="NULL" name="x_169387_vulnerbil_top_remediations_win" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2013f2286fc01300c2bf52b10b3ee42f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 00:44:19</sys_created_on>
+            <sys_id>a813f2286fc01300c2bf52b10b3ee42f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 00:44:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_169387_vulnerbil_top_remediations_win" element="NULL" name="x_169387_vulnerbil_top_remediations_win" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2013f2286fc01300c2bf52b10b3ee42f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 00:44:19</sys_created_on>
+            <sys_id>2c13f2286fc01300c2bf52b10b3ee42f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 00:44:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_169387_vulnerbil_top_remediations_win" element="NULL" name="x_169387_vulnerbil_top_remediations_win" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2013f2286fc01300c2bf52b10b3ee42f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 00:44:19</sys_created_on>
+            <sys_id>ac13f2286fc01300c2bf52b10b3ee42f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 00:44:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_169387_vulnerbil_top_remediations_win</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 00:44:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2013f2286fc01300c2bf52b10b3ee42f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_169387_vulnerbil_top_remediations_win</sys_name>
+            <sys_package display_value="Vulnerbility Management" source="x_169387_vulnerbil">ca6f81606f001300c2bf52b10b3ee4b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+            <sys_update_name>sys_ui_list_x_169387_vulnerbil_top_remediations_win_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 00:44:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

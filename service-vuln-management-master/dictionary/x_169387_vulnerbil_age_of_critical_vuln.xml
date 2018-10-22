@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Age of Critical - Vulnerability" max_length="40" name="x_169387_vulnerbil_age_of_critical_vuln" type="collection">
+        <element attributes="import_attribute_name=Asset Group,edge_encryption_enabled=true" label="Asset Group" max_length="40" name="u_asset_group" type="string"/>
+        <element attributes="import_attribute_name=Critical vulns,edge_encryption_enabled=true" label="Critical vulns" max_length="40" name="u_critical_vulns" type="string"/>
+        <element attributes="import_attribute_name=Critical &gt;180 Days,edge_encryption_enabled=true" label="Critical &gt;180 Days" max_length="40" name="u_critical__180_days" type="string"/>
+        <element attributes="import_attribute_name=Critical &gt;30 Days,edge_encryption_enabled=true" label="Critical &gt;30 Days" max_length="40" name="u_critical__30_days" type="string"/>
+        <element attributes="import_attribute_name=Critical &gt;60 Days,edge_encryption_enabled=true" label="Critical &gt;60 Days" max_length="40" name="u_critical__60_days" type="string"/>
+        <element attributes="import_attribute_name=Critical &gt;90 Days,edge_encryption_enabled=true" label="Critical &gt;90 Days" max_length="40" name="u_critical__90_days" type="string"/>
+        <element attributes="import_attribute_name=Risk Score,edge_encryption_enabled=true" label="Risk Score" max_length="40" name="u_risk_score" type="string"/>
+    </element>
+</database>

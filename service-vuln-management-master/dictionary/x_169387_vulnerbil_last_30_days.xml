@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Last 30 Days" max_length="40" name="x_169387_vulnerbil_last_30_days" sizeclass="1025586" type="collection">
+        <element label="Asset Group" max_length="40" name="asset_group" type="string"/>
+        <element label="CVSS" max_length="40" name="cvss" type="integer"/>
+        <element label="Hostname" max_length="40" name="hostname" type="string"/>
+        <element label="IP Address" max_length="40" name="ip_address" type="string"/>
+        <element label="Last Scanned" max_length="40" name="last_scanned" type="glide_date_time"/>
+        <element label="MAC Address" max_length="40" name="mac_address" type="string"/>
+        <element label="Nexpose ID" max_length="40" name="nexpose_id" type="string"/>
+        <element label="Riskscore" max_length="40" name="riskscore" type="integer"/>
+        <element label="Severity" max_length="40" name="severity" type="string"/>
+        <element default="New" label="Vulnerability Change" max_length="125" name="vulnerability_change" type="string"/>
+        <element label="Vulnerability Title" max_length="40" name="vulnerability_title" type="string"/>
+    </element>
+</database>

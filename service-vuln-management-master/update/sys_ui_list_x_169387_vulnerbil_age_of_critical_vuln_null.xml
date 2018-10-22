@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_169387_vulnerbil_age_of_critical_vuln" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_169387_vulnerbil_age_of_critical_vuln" element="NULL" name="x_169387_vulnerbil_age_of_critical_vuln" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f77bafa46fc41300c2bf52b10b3ee4d6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 04:50:51</sys_created_on>
+            <sys_id>337bafa46fc41300c2bf52b10b3ee4d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 04:50:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_169387_vulnerbil_age_of_critical_vuln" element="NULL" name="x_169387_vulnerbil_age_of_critical_vuln" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f77bafa46fc41300c2bf52b10b3ee4d6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 04:50:51</sys_created_on>
+            <sys_id>377bafa46fc41300c2bf52b10b3ee4f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 04:50:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_169387_vulnerbil_age_of_critical_vuln" element="NULL" name="x_169387_vulnerbil_age_of_critical_vuln" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f77bafa46fc41300c2bf52b10b3ee4d6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 04:50:51</sys_created_on>
+            <sys_id>b77bafa46fc41300c2bf52b10b3ee4f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 04:50:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_169387_vulnerbil_age_of_critical_vuln" element="NULL" name="x_169387_vulnerbil_age_of_critical_vuln" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f77bafa46fc41300c2bf52b10b3ee4d6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 04:50:51</sys_created_on>
+            <sys_id>3b7bafa46fc41300c2bf52b10b3ee4f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 04:50:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_169387_vulnerbil_age_of_critical_vuln" element="NULL" name="x_169387_vulnerbil_age_of_critical_vuln" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f77bafa46fc41300c2bf52b10b3ee4d6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 04:50:51</sys_created_on>
+            <sys_id>bb7bafa46fc41300c2bf52b10b3ee4f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 04:50:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_169387_vulnerbil_age_of_critical_vuln" element="NULL" name="x_169387_vulnerbil_age_of_critical_vuln" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f77bafa46fc41300c2bf52b10b3ee4d6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 04:50:51</sys_created_on>
+            <sys_id>3f7bafa46fc41300c2bf52b10b3ee4f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 04:50:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_169387_vulnerbil_age_of_critical_vuln</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 04:50:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f77bafa46fc41300c2bf52b10b3ee4d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_169387_vulnerbil_age_of_critical_vuln</sys_name>
+            <sys_package display_value="Vulnerbility Management" source="x_169387_vulnerbil">ca6f81606f001300c2bf52b10b3ee4b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+            <sys_update_name>sys_ui_list_x_169387_vulnerbil_age_of_critical_vuln_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 04:50:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

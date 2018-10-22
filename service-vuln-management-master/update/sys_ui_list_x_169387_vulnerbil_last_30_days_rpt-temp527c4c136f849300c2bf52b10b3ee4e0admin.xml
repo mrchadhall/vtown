@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_169387_vulnerbil_last_30_days" version="2" view="rpt-temp527c4c136f849300c2bf52b10b3ee4e0admin">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>asset_group</element>
+            <list_id display_value="x_169387_vulnerbil_last_30_days" element="NULL" name="x_169387_vulnerbil_last_30_days" parent="NULL" relationship="NULL" sys_domain="global" view="1e7c40536f849300c2bf52b10b3ee48f">4b0d3c7f6fccd300c2bf52b10b3ee47a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 18:28:56</sys_created_on>
+            <sys_id>070d3c7f6fccd300c2bf52b10b3ee47b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 18:28:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cvss</element>
+            <list_id display_value="x_169387_vulnerbil_last_30_days" element="NULL" name="x_169387_vulnerbil_last_30_days" parent="NULL" relationship="NULL" sys_domain="global" view="1e7c40536f849300c2bf52b10b3ee48f">4b0d3c7f6fccd300c2bf52b10b3ee47a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 18:28:56</sys_created_on>
+            <sys_id>8b0d3c7f6fccd300c2bf52b10b3ee47b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 18:28:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>hostname</element>
+            <list_id display_value="x_169387_vulnerbil_last_30_days" element="NULL" name="x_169387_vulnerbil_last_30_days" parent="NULL" relationship="NULL" sys_domain="global" view="1e7c40536f849300c2bf52b10b3ee48f">4b0d3c7f6fccd300c2bf52b10b3ee47a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 18:28:56</sys_created_on>
+            <sys_id>0f0d3c7f6fccd300c2bf52b10b3ee47b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 18:28:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ip_address</element>
+            <list_id display_value="x_169387_vulnerbil_last_30_days" element="NULL" name="x_169387_vulnerbil_last_30_days" parent="NULL" relationship="NULL" sys_domain="global" view="1e7c40536f849300c2bf52b10b3ee48f">4b0d3c7f6fccd300c2bf52b10b3ee47a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 18:28:56</sys_created_on>
+            <sys_id>8f0d3c7f6fccd300c2bf52b10b3ee47b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 18:28:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mac_address</element>
+            <list_id display_value="x_169387_vulnerbil_last_30_days" element="NULL" name="x_169387_vulnerbil_last_30_days" parent="NULL" relationship="NULL" sys_domain="global" view="1e7c40536f849300c2bf52b10b3ee48f">4b0d3c7f6fccd300c2bf52b10b3ee47a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 18:28:56</sys_created_on>
+            <sys_id>030d3c7f6fccd300c2bf52b10b3ee47c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 18:28:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>nexpose_id</element>
+            <list_id display_value="x_169387_vulnerbil_last_30_days" element="NULL" name="x_169387_vulnerbil_last_30_days" parent="NULL" relationship="NULL" sys_domain="global" view="1e7c40536f849300c2bf52b10b3ee48f">4b0d3c7f6fccd300c2bf52b10b3ee47a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 18:28:56</sys_created_on>
+            <sys_id>830d3c7f6fccd300c2bf52b10b3ee47c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 18:28:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>riskscore</element>
+            <list_id display_value="x_169387_vulnerbil_last_30_days" element="NULL" name="x_169387_vulnerbil_last_30_days" parent="NULL" relationship="NULL" sys_domain="global" view="1e7c40536f849300c2bf52b10b3ee48f">4b0d3c7f6fccd300c2bf52b10b3ee47a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 18:28:56</sys_created_on>
+            <sys_id>070d3c7f6fccd300c2bf52b10b3ee47c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 18:28:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>severity</element>
+            <list_id display_value="x_169387_vulnerbil_last_30_days" element="NULL" name="x_169387_vulnerbil_last_30_days" parent="NULL" relationship="NULL" sys_domain="global" view="1e7c40536f849300c2bf52b10b3ee48f">4b0d3c7f6fccd300c2bf52b10b3ee47a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 18:28:56</sys_created_on>
+            <sys_id>870d3c7f6fccd300c2bf52b10b3ee47c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 18:28:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>vulnerability_change</element>
+            <list_id display_value="x_169387_vulnerbil_last_30_days" element="NULL" name="x_169387_vulnerbil_last_30_days" parent="NULL" relationship="NULL" sys_domain="global" view="1e7c40536f849300c2bf52b10b3ee48f">4b0d3c7f6fccd300c2bf52b10b3ee47a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 18:28:56</sys_created_on>
+            <sys_id>0b0d3c7f6fccd300c2bf52b10b3ee47c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 18:28:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>vulnerability_title</element>
+            <list_id display_value="x_169387_vulnerbil_last_30_days" element="NULL" name="x_169387_vulnerbil_last_30_days" parent="NULL" relationship="NULL" sys_domain="global" view="1e7c40536f849300c2bf52b10b3ee48f">4b0d3c7f6fccd300c2bf52b10b3ee47a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 18:28:56</sys_created_on>
+            <sys_id>8b0d3c7f6fccd300c2bf52b10b3ee47c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 18:28:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_169387_vulnerbil_last_30_days</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 18:28:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b0d3c7f6fccd300c2bf52b10b3ee47a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 18:28:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt-temp527c4c136f849300c2bf52b10b3ee4e0admin" name="rpt-temp527c4c136f849300c2bf52b10b3ee4e0admin">1e7c40536f849300c2bf52b10b3ee48f</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_asset_work_estimate" label="Asset Work Estimate" language="en" table="x_169387_vulnerbil_top_remediations_all">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_asset_work_estimate</element>
+            <help/>
+            <hint/>
+            <label>Asset Work Estimate</label>
+            <language>en</language>
+            <name>x_169387_vulnerbil_top_remediations_all</name>
+            <plural>Asset Work Estimates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 03:07:11</sys_created_on>
+            <sys_id>9dc357ec6f041300c2bf52b10b3ee4f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Asset Work Estimate</sys_name>
+            <sys_package display_value="Vulnerbility Management" source="x_169387_vulnerbil">ca6f81606f001300c2bf52b10b3ee4b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+            <sys_update_name>sys_documentation_x_169387_vulnerbil_top_remediations_all_u_asset_work_estimate_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 03:07:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

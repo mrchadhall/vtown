@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_asset_group" label="asset group" language="en" table="x_169387_vulnerbil_current_vulnerabilities">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_asset_group</element>
+            <help/>
+            <hint/>
+            <label>asset group</label>
+            <language>en</language>
+            <name>x_169387_vulnerbil_current_vulnerabilities</name>
+            <plural>asset groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 05:13:39</sys_created_on>
+            <sys_id>2db0ff686fc41300c2bf52b10b3ee410</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>asset group</sys_name>
+            <sys_package display_value="Vulnerbility Management" source="x_169387_vulnerbil">ca6f81606f001300c2bf52b10b3ee4b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+            <sys_update_name>sys_documentation_x_169387_vulnerbil_current_vulnerabilities_u_asset_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 05:13:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

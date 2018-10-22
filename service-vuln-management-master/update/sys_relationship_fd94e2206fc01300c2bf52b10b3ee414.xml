@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_169387_vulnerbil_support_team</basic_apply_to>
+        <basic_query_from>sys_user</basic_query_from>
+        <insert_callback/>
+        <name>Members of Support Team</name>
+        <query_from/>
+        <query_with><![CDATA[current.addQuery('members', parent.sys_id);]]></query_with>
+        <reference_field>building</reference_field>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-30 23:41:31</sys_created_on>
+        <sys_id>fd94e2206fc01300c2bf52b10b3ee414</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Members of Support Team</sys_name>
+        <sys_package display_value="Vulnerbility Management" source="x_169387_vulnerbil">ca6f81606f001300c2bf52b10b3ee4b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vulnerbility Management">ca6f81606f001300c2bf52b10b3ee4b8</sys_scope>
+        <sys_update_name>sys_relationship_fd94e2206fc01300c2bf52b10b3ee414</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-31 00:47:30</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd94e2206fc01300c2bf52b10b3ee414"/>
+</record_update>

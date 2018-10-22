@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="asset group trend" max_length="40" name="x_169387_vulnerbil_asset_group_trend" sizeclass="6069" type="collection">
+        <element attributes="import_attribute_name=assets,edge_encryption_enabled=true" label="assets" max_length="40" name="u_assets" type="string"/>
+        <element attributes="import_attribute_name=Asset Group,edge_encryption_enabled=true" label="Asset Group" max_length="40" name="u_asset_group" type="string"/>
+        <element attributes="import_attribute_name=critical,edge_encryption_enabled=true" label="critical" max_length="40" name="u_critical" type="string"/>
+        <element attributes="import_attribute_name=day,edge_encryption_enabled=true" label="day" max_length="40" name="u_day" type="string"/>
+        <element attributes="import_attribute_name=moderate,edge_encryption_enabled=true" label="moderate" max_length="40" name="u_moderate" type="string"/>
+        <element attributes="import_attribute_name=riskscore,edge_encryption_enabled=true" label="riskscore" max_length="40" name="u_riskscore" type="string"/>
+        <element attributes="import_attribute_name=severe,edge_encryption_enabled=true" label="severe" max_length="40" name="u_severe" type="string"/>
+        <element attributes="import_attribute_name=vulnerabilities,edge_encryption_enabled=true" label="vulnerabilities" max_length="40" name="u_vulnerabilities" type="string"/>
+        <element attributes="import_attribute_name=vulns with exploits,edge_encryption_enabled=true" label="vulns with exploits" max_length="40" name="u_vulns_with_exploits" type="string"/>
+    </element>
+</database>
